@@ -92,4 +92,5 @@ JavaScript (Node.js)
 prompt-sync for handling user input
 
 📜 License
+
 This project is free to use for educational and personal purposes.
